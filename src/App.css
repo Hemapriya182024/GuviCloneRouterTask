@@ -1,0 +1,67 @@
+#root {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+
+  
+  .home {
+    min-height: 80vh;
+  }
+  
+  .nav-link {
+    font-size:medium;
+    margin:0 1rem;
+  }
+  
+ 
+  .card {
+    text-decoration: none;
+  }
+  
+  .activeLink {
+   
+    border:none;
+    border-bottom :1px solid green;
+    background-color: #198754;
+    
+  }
+  
+  .pendingLink {
+   
+    border: white;
+  }
+  
+  
+  a {
+    text-decoration: none;;
+  }
+  .transparent-bg {
+    background: none;
+  }
+  
+  .search-form {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    width: 400px;
+  }
+
+  .container{
+    display: flex;
+    align-items: flex-start;
+   
+  }
+  .nav-item{
+    font-size: bold;
+  }
+.heading{
+  text-align: left;
+  margin-left: 30px;
+}
+.left-container{
+  width: 600px;
+}
+.navitems{
+  text-decoration: none;
+}
